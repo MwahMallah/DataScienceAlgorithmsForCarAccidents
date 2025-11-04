@@ -15,7 +15,11 @@ The project includes:
 
 ### Classifier
 
-A **Random Forest classifier** is implemented to predict outcomes related to car accidents based on available features. The classifier can handle complex data patterns and provides feature importance to help understand which factors contribute most to accidents.
+A **Random Forest classifier** is implemented to predict outcomes related to car accidents based on available features.
+
+### Clusterizer
+
+A **DBSCAN-based clusterizer** is used to identify high-risk areas by detecting accident clusters with many incidents. Only the largest clusters are considered, providing coordinates and approximate radius for each dangerous zone.
 
 ## Datasets
 
