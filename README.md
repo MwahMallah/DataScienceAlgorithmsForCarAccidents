@@ -1,6 +1,6 @@
 # Data Science Algorithms for Car Accidents
 
-This repository contains a collection of **Data Science algorithms applied to car accident datasets**. The goal of this project is to analyze traffic data, identify patterns, and build predictive models to better understand and prevent car accidents.
+This repository contains a collection of **Data Science algorithms applied to car accident datasets**. The goal of this project is to analyze traffic data, identify patterns, and build predictive models to better understand and prevent car accidents. These algorithms were developed as part of a **bachelor's thesis project**.
 
 ## Project Overview
 
@@ -33,4 +33,5 @@ To run the algorithms:
    ```bash
    pip install -r requirements.txt
    ```
-3. Run the Python scripts in the repository to perform analysis and predictions.
+3. Create a folder data/ in the project root and add the CSV file brno_nehody.csv from [Czech Police accident statistics](https://policie.gov.cz/clanek/statistika-nehodovosti.aspx?q=Y2hudW09Mg%3d%3d)
+4. Run the Python scripts in the repository to perform analysis and predictions.
